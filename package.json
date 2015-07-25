@@ -1,0 +1,23 @@
+{
+  "name": "twitter-oauth-agent",
+  "version": "1.0.0",
+  "description": "Dead simple, low-level agent for authenticating with Twitter's oAuth",
+  "keywords": [
+    "oauth",
+    "twitter",
+    "simple"
+  ],
+  "author": "Matthew Mueller <matt@lapwinglabs.com>",
+  "main": "lib/server.js",
+  "browser": "lib/client.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LapwingLabs/twitter-oauth-agent.git"
+  },
+  "dependencies": {
+    "oauth-open": "^1.0.2",
+    "object-assign": "^3.0.0",
+    "querystring": "^0.2.0",
+    "request": "^2.60.0"
+  }
+}
