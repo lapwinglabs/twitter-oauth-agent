@@ -1,6 +1,6 @@
 {
   "name": "twitter-oauth-agent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dead simple, low-level agent for authenticating with Twitter's oAuth",
   "keywords": [
     "oauth",
