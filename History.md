@@ -1,4 +1,9 @@
 
+1.0.2 / 2016-02-29
+==================
+
+  * Return error when user cancel the authentication
+
 1.0.1 / 2015-09-29
 ==================
 
